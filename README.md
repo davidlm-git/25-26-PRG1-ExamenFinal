@@ -1,10 +1,18 @@
 # Examen Final - Programación I - [25][26]
 
+## Instrucciones
+
+- Reemplace esta página por su nombre y únicamente la descripción del escenario que le corresponde resolver.
+- Su entrega debe estar en la carpeta `/entregas/apellidoNombre`
+  - El código fuente, en la carpeta `/entregas/apellidoNombre/src`
+  - Las observaciones, en formato markdown y en la carpeta `/entregas/apellidoNombre/documentos`
+- El desarollo debe realizarse mediante babySteps (un ajuste pequeño a la vez, commit por ajuste).
+
 ## Introducción
 
 Este examen evalúa su capacidad para analizar código existente, identificar problemas de diseño y proponer mejoras.
 
-La tarea principal es refactorizar el código fuente proporcionado para que sea más legible, mantenible, extensible y eficiente, atendiendo _stricto sensu_ los conceptos y principio de desarrollo aprendidos en clase.
+Su tarea es auditar y refactorizar el código fuente proporcionado para que sea más legible, mantenible, extensible y eficiente, atendiendo _stricto sensu_ los conceptos y principio de desarrollo aprendidos en clase.
 
 ||
 |-|
